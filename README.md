@@ -1,4 +1,4 @@
-# 🧠 snipSmart
+# snipSmart
 
 Extract clean **JSON** or **HTML/XML** snippets from messy AI outputs or raw text.  
 A lightweight utility with **no dependencies** — just copy the function(s) you need and go.
@@ -61,7 +61,7 @@ node examples/use-snipSmart.js
 ```
 ---
 
-## 🧪 TestCases
+## TestCases
 
 The folder 📂 /testCases contains manually curated test cases for the `snipSmart` utility and its helper functions.
 
@@ -79,20 +79,20 @@ Use these to understand, verify, or extend the behavior of:
 | `snipByTag-cases.md`   | HTML/XML tag-based test cases                    |
 | `snipSmart-cases.md`   | Tests format handling and delegation in snipSmart|
 
-### 📝 Contributing
+### Contributing
 
 Want to add more test cases?  
 Just follow the same format and open a pull request!
 
 ---
 
-## 🚀 Roadmap & Contributions
+## Roadmap & Contributions
 
-### 🛠️ Future Plans
+### Future Plans
 
 More snippet types (e.g., `snipCsv`, `snipCode`, etc.) are in the pipeline to make `snipSmart` even more versatile.
 
-### 🤝 Contributions Welcome!
+### Contributions Welcome!
 
 Have an idea, edge case, or improvement? Feel free to open an issue or submit a pull request — we'd love your help!
 
