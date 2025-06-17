@@ -86,6 +86,18 @@ Just follow the same format and open a pull request!
 
 ---
 
+## 🚀 Roadmap & Contributions
+
+### 🛠️ Future Plans
+
+More snippet types (e.g., `snipCsv`, `snipCode`, etc.) are in the pipeline to make `snipSmart` even more versatile.
+
+### 🤝 Contributions Welcome!
+
+Have an idea, edge case, or improvement? Feel free to open an issue or submit a pull request — we'd love your help!
+
+---
+
 ## 🔓 License
 
 This project is released under the MIT License.
