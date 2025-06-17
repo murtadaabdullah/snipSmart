@@ -1,4 +1,4 @@
-# ✂️🧠 snipSmart
+# 🧠 snipSmart
 
 Extract clean **JSON** or **HTML/XML** snippets from messy AI outputs or raw text.  
 A lightweight utility with **no dependencies** — just copy the function(s) you need and go.
